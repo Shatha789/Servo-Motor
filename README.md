@@ -12,6 +12,7 @@ Diagram of Servo Motor :
 
 Video of Servo Motor :
 
+https://user-images.githubusercontent.com/86571348/124830851-22a6d200-df83-11eb-919f-edfd70b5b5df.mov
 
 
 
